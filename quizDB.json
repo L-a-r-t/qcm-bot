@@ -1,0 +1,671 @@
+{"micro" : {
+    "name" : "microéconomie",
+    "rightScore" : "1",
+    "wrongScore" : "0",
+    "type" : "one_answer",
+    "questions" : [
+        {
+            "text" : "Quelle affirmation est fausse ? Une allocation Pareto-efficace est une allocation pour laquelle",
+            "answers" : [
+                "Il n'est pas possible d'accroître la satisfaction de tout le monde", 
+                "Tous les gains à l'échange ont été exploités", 
+                "Il est possible d'accroître la satisfaction d'une personne en laissant inchangée celle de toutes les autres personnes.*", 
+                "Il n'est pas possible d'accroître la satisfaction d’une seule personne"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse? Le second théorème de l'économie du bien-être",
+            "answers" : [
+                "pose que tous les équilibres de marché sont des optima de Pareto*", 
+                "pose qu'il existe un ensemble de prix tel que toute allocation Pareto-efficace est un équilibre de marché pour des dotations initiales adéquates.", 
+                "montre qu'il est possible de réconcilier efficacité et redistribution en imposant des transferts forfaitaires entre les agents ", 
+                "montre qu'il est possible de réconcilier efficacité et redistribution en modifiant la richesse initiale des agents"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est exacte ? L'anti-sélection signifie que",
+            "answers" : [
+                "les caractéristiques d'un agent ne sont pas connues du régulateur*", 
+                "les informations du régulateur sur des agents sont parfaitement privées", 
+                "les actions d'un agent sont connues de tous", 
+                "les agents n’observent pas les actions du régulateur"
+            ]
+        },
+        {
+            "text" : "Un bien public pur est :",
+            "answers" : [
+                "non rival et non exclusif*", 
+                "rival et non exclusif", 
+                "rival et exclusif", 
+                "non rival et exclusif"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse? La condition de Bowen-Lindhal-Samuelson ",
+            "answers" : [
+                "signifie que chaque agent égalise son TMS du bien public au bien privé au rapport des prix des deux biens", 
+                "assure la fourniture optimale du bien public", 
+                "implique que les agents vont consommer plus de bien privé*", 
+                "implique que l'Etat distribue aux agents plus de bien public"
+            ]
+        },
+        {
+            "text" : "Supposons que le gouvernement décide de distribuer un nombre limité de droits à polluer, laquelle de ces affirmations est vraie?",
+            "answers" : [
+                "Les firmes qui peuvent facilement et à bas coût réduire leur niveau de pollution vont trouver profitable de vendre les permis non utilisés*", 
+                "Quand le gouvernement alloue des droits à polluter, il favorise les firmes polluantes", 
+                "Les firmes qui vendent leurs droits ne sont pas en mesure de calculer le coût qu’elles devront supporter en réduisant leur niveau de pollution", 
+                "Les firmes vont polluter comme avant"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Sur le marché des taxi, l'état doit intervenir car",
+            "answers" : [
+                "il y a des externalités négatives du fait de la pollution", 
+                "le nombre de taxis s'apparente à un bien public*", 
+                "le secteur opère dans un contexte de rendements d'échelle croissants", 
+                "les taxis ne trouvent pas de clients"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Que se passe-t-il si un monopole naturel supportant un coût fixe et un coût marginal constant tarifie au coût marginal",
+            "answers" : [
+                "il atteint son seuil de rentabilité", 
+                "sa perte est égale à son coût fixe*", 
+                "son profit est nul", 
+                "il couvre son coût fixe"
+            ]
+        },
+        {
+            "text" : "Quelle proposition est fausse ? L’externalité du coût de pompage signifie que",
+            "answers" : [
+                "le coût de pompage augmente quand la hauteur de la nappe baisse", 
+                "les fermiers prélèvent plus d’eau que dans le cas coopératif", 
+                "que le niveau de la nappe est plus élevée que dans le cas coopératif", 
+                "qu’il y a trop de fermiers qui exploitent la nappe*"
+            ]
+        },
+        {
+            "text" : "Quelle proposition est fausse ? Le théorème d’Arrow repose sur les conditions",
+            "answers" : [
+                "de Pareto efficacité", 
+                "d'indépendance", 
+                "d'universalité", 
+                "de maximisation du bien être*"
+            ]
+        },
+        {
+            "text" : "**Exercice (4 questions)**\nOn considère **n** pays identiques. Chaque pays peut réduire sa pollution et on note **qi** les réductions de gaz à effet de serre d'un pays et **Q** la somme des réductions. La fonction de gain d'un pays est :\n**Πi=(2/n)(aQ-(1/2)Q²)-(qi)²**",
+            "questions" : [
+                {
+                    "text" : "Quelle affirmation est fausse ?",
+                    "answers": [
+                        "La fonction de coût est convexe",
+                        "La fonction de bénéfice est concave",
+                        "Les émissions de pollution sont un bien public*",
+                        "Les réductions d'émissions sont un bien public"
+                    ]
+                },
+                {
+                    "text" : "Supposons que les pays coopèrent (d'où l'exposant c), quel sera le montant de réduction global ?",
+                    "answers": [
+                        "Qc = (an)/(1+n)*",
+                        "Qc = (an)/(2(1+n))",
+                        "Qc = n/(1+a)",
+                        "Qc = (2an)/(1+an)"
+                    ]
+                },
+                {
+                    "text" : "Supposons que les pays ne coopèrent pas (d'où l'exposant nc), quel sera le montant de réduction global ?",
+                    "answers": [
+                        "Qnc = a/2*",
+                        "Qnc = 2a",
+                        "Qnc = 2an",
+                        "Qnc = n(a/2)"
+                    ]
+                },
+                {
+                    "text" : "Quelle affirmation est vraie ? En présence de coopération,",
+                    "answers": [
+                        "Les pays réduisent moins leurs émissions puisque tout le monde fait plus",
+                        "Les pays réduisent plus leurs émissions puisque tout le monde fait plus*",
+                        "Les pays ne réduisent pas plus car chacun veut jouer passager clandestin",
+                        "Le mal global pousse les pays à ne rien faire"
+                    ]
+                }
+            ]
+        },
+        {
+            "text" : "**Exercice (9 questions)**\nOn considère la fonction de coût d'un monopole public de la forme **C(Q)=110Q-(1/2)Q²** et la fonction de demande **Q(p)=100-(1/2)P**",
+            "questions" : [
+                {
+                    "text" : "Quelle affirmation est vraie ?",
+                    "answers" : [
+                        "Le coût moyen est plus élevé que le coût marginal*", 
+                        "Le coût moyen est plus faible que le coût marginal", 
+                        "Le coût moyen est égal au coût marginal", 
+                        "Le coût moyen est croissant avec la production"
+                    ]
+                },
+                {
+                    "text" : "Quelle affirmation est vraie ?",
+                    "answers" : [
+                        "La recette moyenne est plus élevée que la recette marginale*", 
+                        "La recette moyenne est plus faible que la recette marginale", 
+                        "La recette moyenne est égale à la recette marginale", 
+                        "La recette moyenne est croissante avec la production"
+                    ]
+                },
+                {
+                    "text" : "Supposons que le monopole maximise son profit, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "La production et le prix de monopole sont 30 et 140*", 
+                        "La production et le prix de monopole sont 20 et 130", 
+                        "La production et le prix de monopole sont 10 et 120", 
+                        "La production et le prix de monopole sont 40 et 110"
+                    ]
+                },
+                {
+                    "text" : " Supposons que le monopole maximise son profit, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "Le profit est de 1350, le surplus du consommateur est de 900*", 
+                        "Le profit est de 1250, le surplus du consommateur est de 800", 
+                        "Le profit est de 1150, le surplus du consommateur est de 700", 
+                        "Le profit est de 1050, le surplus du consommateur est de 600"
+                    ]
+                },
+                {
+                    "text" : "Supposons que le monopole maximise son profit, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "Le profit est de 1350, le surplus du consommateur est de 900*", 
+                        "Le profit est de 1250, le surplus du consommateur est de 800", 
+                        "Le profit est de 1150, le surplus du consommateur est de 700", 
+                        "Le profit est de 1050, le surplus du consommateur est de 600"
+                    ]
+                },
+                {
+                    "text" : "Si l'Etat impose une tarification au coût marginal, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "La production et le prix sont 90 et 20*", 
+                        "La production et le prix sont 100 et 30", 
+                        "La production et le prix sont 110 et 10", 
+                        "La production et le prix sont 80 et 10"
+                    ]
+                },
+                {
+                    "text" : " Si l'Etat impose une tarification au coût marginal, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "Le profit est de -4050, le surplus du consommateur est de 8100*", 
+                        "Le profit est de-3050, le surplus du consommateur est de 7100", 
+                        "Le profit est de -5050, le surplus du consommateur est de 9001", 
+                        "Le profit est de-6050, le surplus du consommateur est de 10001"
+                    ]
+                },
+                {
+                    "text" : "Si l'état impose la règle de Ramsey-Boiteux, il impose d'égaliser",
+                    "answers" : [
+                        "La recette moyenne au coût moyen*", 
+                        "La recette marginale au coût marginal", 
+                        "La recette moyenne au coût marginal", 
+                        "La recette marginale au coût marginal"
+                    ]
+                },
+                {
+                    "text" : "Si l'état impose la règle de Ramsey-Boiteux, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "La production est de 60 et le prix de 80*", 
+                        "La production est de 50 et le prix de 70", 
+                        "La production est de 40 et le prix de 60", 
+                        "La production est de 30 et le prix de 50"
+                    ]
+                },
+                {
+                    "text" : "Si l'état impose la règle de Ramsey-Boiteux, quelle affirmation est vraie ?",
+                    "answers" : [
+                        "Le surplus du consommateur est de 3600 et celui du producteur égal à 0*", 
+                        "Le surplus du consommateur est de 3500 et celui du producteur égal à 0", 
+                        "Le surplus du consommateur est de 3400 et celui du producteur égal à 0", 
+                        "Le surplus du consommateur est de 3300 et celui du producteur égal à 0"
+                    ]
+                }
+            ]
+        },
+        {
+            "text" : "**Exercice (7 questions)** :\nOn considère une firme dont les rejets d’émissions polluantes dans une rivière affectent les pêcheurs. On note **B(e)=6e-4e²** la fonction de bénéfice de la firme et D(e)=2e² le dommage des pécheurs.",
+            "questions" : [
+                {
+                    "text" : "En l’absence de régulation et de droits de propriétés définis, quelle est la quantité de pollution émise par la firme ?",
+                    "answers" : [
+                        "1/4", 
+                        "3/4*", 
+                        "1", 
+                        "1/2"
+                    ]
+                },
+                {
+                    "text" : "Quelle est la quantité de pollution socialement optimale ?",
+                    "answers" : [
+                        "1/4", 
+                        "3/4", 
+                        "1", 
+                        "1/2*"
+                    ]
+                },
+                {
+                    "text" : "Quelle est la quantité positive de pollution qui égalise le bénéfice total au dommage total ?",
+                    "answers" : [
+                        "1/4", 
+                        "3/4", 
+                        "1*", 
+                        "1/2"
+                    ]
+                },
+                {
+                    "text" : "Quel est, respectivement, le bénéfice de la firme dans les trois questions précédentes ?",
+                    "answers" : [
+                        "2, 2 et 9/4", 
+                        "2, 9/4 et 2", 
+                        "9/4, 2 et 2*", 
+                        "9/4, 2 et 0"
+                    ]
+                },
+                {
+                    "text" : "Quel est, respectivement, le dommage des pêcheurs dans les questions citées juste au-dessus ?",
+                    "answers" : [
+                        "2, 2 et 9/8", 
+                        "2, 9/8 et 2", 
+                        "9/8, 0 et 2", 
+                        "9/8, 1/2 et 2*"
+                    ]
+                },
+                {
+                    "text" : "Quelle affirmation est fausse ? Par rapport au cas sans régulation",
+                    "answers" : [
+                        "Le surplus des pêcheurs a augmenté à l’optimum social", 
+                        "Le surplus de la firme a baissé à l’optimum social", 
+                        "Le gain social a baissé à l’optimum social*", 
+                        "Le gain social a augmenté à l’optimum social"
+                    ]
+                },
+                {
+                    "text" : "Quelle affirmation est vraie ? La comparaison du cas avec régulation avec le cas où le bénéfice total est égal au dommage marginal montre que",
+                    "answers" : [
+                        "Le surplus des pêcheurs est le même mais la pollution est plus faible", 
+                        "Le surplus du pollueur est le même mais la pollution est plus faible*", 
+                        "Le surplus des pêcheurs est le même mais la pollution est plus forte", 
+                        "Le surplus total est le même mais la pollution est plus faible"
+                    ]
+                }
+            ]
+        },
+        {
+            "text" : "**Exercice (3 questions)** :\nOn considère un individu 1 qui vend sa voiture. Il n'acceptera pas un prix inférieur à 1000€. Un individu 2 est intéressé pour l'acheter mais ne veut pas dépenser plus de 2000€. La fonction d'utilité de 1 et 2 s'écrit 'U1 = p - 1000' et 'U2 = 2000 - p'. Les deux individus demandent à un garagiste quel serait le prix qui maximiserait une fonction de bien-être du type 'W = U1*U2'",
+            "questions" : [
+                {
+                    "text" : "Quel sera le prix d'équilibre ?",
+                    "answers" : [
+                        "1000", 
+                        "2000", 
+                        "1500*", 
+                        "5000"
+                    ]
+                },
+                {
+                    "text" : "Quels seront les surplus respectifs des deux individus ?",
+                    "answers" : [
+                        "0 et 1000", 
+                        "1000 et 0", 
+                        "500 et 500*", 
+                        "0 et 0"
+                    ]
+                },
+                {
+                    "text" : "Quelle affirmation est fausse ? Le free-riding",
+                    "answers" : [
+                        "est un comportement anti-coopératif", 
+                        "est une nouvelle technique de surf*", 
+                        "décrit un comportement de passager clandestin en présence de bien public", 
+                        "est une tragédie pour la gestion des biens en accès libre"
+                    ]
+                }
+            ]
+        },
+        {
+            "text" : "On considère la matrice de gain suivante entre deux pays (1 et 2) ayant le choix entre deux stratégies possibles (P pour polluer et R pour réduire). Dans chaque case, le premier (second) gain est celui de l'agent 1 (2)\n|1/2|  R  |  P  |\n|  R  | 1;1 |0;3|\n|  P  |3;0|2;2|\nQuelle affirmation est vraie ?",
+            "answers" : [
+                "Ce jeu exprime un défaut de coordination", 
+                "L'issue du jeu est donnée par la case (P,P)*", 
+                "L'issue du jeu est donnée par la case (R,R)", 
+                "L'issue du jeu est donnée par les cases (R,P) et (P,R)"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse ? La condition de Bowen-Lindhal-Samuelson",
+            "answers" : [
+                "Signifie que le planificateur social égalise la somme des TMS du bien public au bien privé au rapport des prix des deux biens", 
+                "Signifie que chaque agent égalise son TMS du bien public au bien privé au rapport des prix des deux biens*", 
+                "Implique que les agents vont consommer moins de bien privé", 
+                "Implique que l'Etat distribue aux agents plus de bien public"
+            ]
+        },
+        {
+            "text" : "Un bien privé est :",
+            "answers" : [
+                "A la fois non rival et non exclusif", 
+                "Un bien rival et non exclusif", 
+                "Rival et exclusif*", 
+                "Non rival mais exclusif"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Que se passe-t-il si un monopole naturel supportant un coût fixe et un coût marginal constant tarifie au coût marginal",
+            "answers" : [
+                "Il atteint son seuil de rentabilité", 
+                "Sa perte est égale à son coût fixe*", 
+                "Son profit est nul", 
+                "Il couvre son coût fixe"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse ? La règle de Ramsey-Boiteux consiste",
+            "answers" : [
+                "A fixer pour le monopole naturel une tarification inférieure au coût marginal*", 
+                "A fixer pour le monopole naturel une tarification auc coût moyen", 
+                "A maximiser le surplus social en assurant le respect de la contrainte budgétaire du monopole naturel", 
+                "A faire payer aux usagers le coût fixe du monopole naturel"
+            ]
+        }                                              
+    ]
+    },
+"micro_cours" : {
+    "name" : "microéconomie, questions de cours",
+    "rightScore" : "1",
+    "wrongScore" : "0",
+    "type" : "one_answer",
+    "questions": [
+        {
+            "text" : "Quelle affirmation est fausse ? Une allocation Pareto-efficace est une allocation pour laquelle",
+            "answers" : [
+                "Il n'est pas possible d'accroître la satisfaction de tout le monde", 
+                "Tous les gains à l'échange ont été exploités", 
+                "Il est possible d'accroître la satisfaction d'une personne en laissant inchangée celle de toutes les autres personnes.*", 
+                "Il n'est pas possible d'accroître la satisfaction d’une seule personne"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse? Le second théorème de l'économie du bien-être",
+            "answers" : [
+                "pose que tous les équilibres de marché sont des optima de Pareto*", 
+                "pose qu'il existe un ensemble de prix tel que toute allocation Pareto-efficace est un équilibre de marché pour des dotations initiales adéquates.", 
+                "montre qu'il est possible de réconcilier efficacité et redistribution en imposant des transferts forfaitaires entre les agents ", 
+                "montre qu'il est possible de réconcilier efficacité et redistribution en modifiant la richesse initiale des agents"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est exacte ? L'anti-sélection signifie que",
+            "answers" : [
+                "les caractéristiques d'un agent ne sont pas connues du régulateur*", 
+                "les informations du régulateur sur des agents sont parfaitement privées", 
+                "les actions d'un agent sont connues de tous", 
+                "les agents n’observent pas les actions du régulateur"
+            ]
+        },
+        {
+            "text" : "Un bien public pur est :",
+            "answers" : [
+                "non rival et non exclusif*", 
+                "rival et non exclusif", 
+                "rival et exclusif", 
+                "non rival et exclusif"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse? La condition de Bowen-Lindhal-Samuelson ",
+            "answers" : [
+                "signifie que chaque agent égalise son TMS du bien public au bien privé au rapport des prix des deux biens", 
+                "assure la fourniture optimale du bien public", 
+                "implique que les agents vont consommer plus de bien privé*", 
+                "implique que l'Etat distribue aux agents plus de bien public"
+            ]
+        },
+        {
+            "text" : "Supposons que le gouvernement décide de distribuer un nombre limité de droits à polluer, laquelle de ces affirmations est vraie?",
+            "answers" : [
+                "Les firmes qui peuvent facilement et à bas coût réduire leur niveau de pollution vont trouver profitable de vendre les permis non utilisés*", 
+                "Quand le gouvernement alloue des droits à polluter, il favorise les firmes polluantes", 
+                "Les firmes qui vendent leurs droits ne sont pas en mesure de calculer le coût qu’elles devront supporter en réduisant leur niveau de pollution", 
+                "Les firmes vont polluter comme avant"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Sur le marché des taxi, l'état doit intervenir car",
+            "answers" : [
+                "il y a des externalités négatives du fait de la pollution", 
+                "le nombre de taxis s'apparente à un bien public*", 
+                "le secteur opère dans un contexte de rendements d'échelle croissants", 
+                "les taxis ne trouvent pas de clients"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Que se passe-t-il si un monopole naturel supportant un coût fixe et un coût marginal constant tarifie au coût marginal",
+            "answers" : [
+                "il atteint son seuil de rentabilité", 
+                "sa perte est égale à son coût fixe*", 
+                "son profit est nul", 
+                "il couvre son coût fixe"
+            ]
+        },
+        {
+            "text" : "Quelle proposition est fausse ? L’externalité du coût de pompage signifie que",
+            "answers" : [
+                "le coût de pompage augmente quand la hauteur de la nappe baisse", 
+                "les fermiers prélèvent plus d’eau que dans le cas coopératif", 
+                "que le niveau de la nappe est plus élevée que dans le cas coopératif", 
+                "qu’il y a trop de fermiers qui exploitent la nappe*"
+            ]
+        },
+        {
+            "text" : "Quelle proposition est fausse ? Le théorème d’Arrow repose sur les conditions",
+            "answers" : [
+                "de Pareto efficacité", 
+                "d'indépendance", 
+                "d'universalité", 
+                "de maximisation du bien être*"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse ? La condition de Bowen-Lindhal-Samuelson",
+            "answers" : [
+                "Signifie que le planificateur social égalise la somme des TMS du bien public au bien privé au rapport des prix des deux biens*", 
+                "Signifie que chaque agent égalise son TMS du bien public au bien privé au rapport des prix des deux biens", 
+                "Implique que les agents vont consommer moins de bien privé", 
+                "Implique que l'Etat distribue aux agents plus de bien public"
+            ]
+        },
+        {
+            "text" : "Un bien privé est :",
+            "answers" : [
+                "A la fois non rival et non exclusif", 
+                "Un bien rival et non exclusif", 
+                "Rival et exclusif*", 
+                "Non rival mais exclusif"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est vraie ? Que se passe-t-il si un monopole naturel supportant un coût fixe et un coût marginal constant tarifie au coût marginal",
+            "answers" : [
+                "Il atteint son seuil de rentabilité", 
+                "Sa perte est égale à son coût fixe*", 
+                "Son profit est nul", 
+                "Il couvre son coût fixe"
+            ]
+        },
+        {
+            "text" : "Quelle affirmation est fausse ? La règle de Ramsey-Boiteux consiste",
+            "answers" : [
+                "A fixer pour le monopole naturel une tarification inférieure au coût marginal*", 
+                "A fixer pour le monopole naturel une tarification auc coût moyen", 
+                "A maximiser le surplus social en assurant le respect de la contrainte budgétaire du monopole naturel", 
+                "A faire payer aux usagers le coût fixe du monopole naturel"
+            ]
+        }
+    ]
+},
+"maths" : {
+    "name" : "mathématiques",
+    "rightScore" : "1",
+    "wrongScore" : "0",
+    "type" : "multiple_answers",
+    "questions":[
+        {
+            "text" : "On considère, pour *x* et *y* strictement positifs, la fonction *f* définie par *f(x,y) = (x²-y²)/(x²+y²)*. On peut affirmer que cette fonction",
+            "answers" : [
+                "est à rendements d'échelles constants", 
+                "est homogène", 
+                "est à rendements d'échelles croissants", 
+                "n'est pas homogène*",
+                "vérifie l'égalité d'Euler"
+            ]
+        },
+        {
+            "text" : "Une fonction de production est donnée, pour *x* et *y* strictement positifs, par *f(x,y) = 4x²'⁵y¹'⁵*. A partir d'une valeur *(x₀,y₀)*, on augmente *x* de *10%* et on diminue *y* de *10%*. On peut affirmer que la variation en pourcentage de *f* est d'environ",
+            "answers" : [
+                "0%", 
+                "-4%", 
+                "-2%", 
+                "+2%*",
+                "+4%"
+            ]
+        },
+        {
+            "text" : "On considère la fonction *f* définie et de classe C∞ sur ℝ² par *f(x,y) = 2x²y + 2x² + y²*. On peut affirmer que :",
+            "answers" : [
+                "(0,0) et (-1,1) sont les deux seuls points critiques de f", 
+                "(0,0) et (-1,-1) sont les deux seules points critiques de f", 
+                "(0,0) est un point selle", 
+                "f présente en (0,0) un minimum local*",
+                "f présente en (-1,1) un minimum local"
+            ]
+        },
+        {
+            "text" : "On considère la fonction f définie et de classe C∞ sur ℝ² par *f(x,y) = 2x²y + 2x² + y²*. On note *Hf(a,b)* la matrice hessionne de f en (a,b). On peut affirmer que :",
+            "answers" : [
+                "les valeurs propres de Hf(0,0) sont de signes contraires", 
+                "les valeurs propres de Hf(0,0) sont strictement positives*", 
+                "les valeurs propres de Hf(-1,-1) sont de signes contraires*", 
+                "les valeurs propres de Hf(-1,-1) sont strictement positives",
+                "les valeurs propres de Hf(-1,-1) sont strictement négatives"
+            ]
+        },
+        {
+            "text" : "On considère la fonction *f* définie et de classe C∞ sur ℝ² par *f(x,y) = x² + y² + 3xy - y*. On peut affirmer que :",
+            "answers" : [
+                "(-3/5,2/5) est un point critique de f", 
+                "(3/5,-2/5) est un point critique de f*", 
+                "f admet en (-3/5,2/5) un minimum local", 
+                "(3/5,-2/5) est un point selle*",
+                "f est convexe sur ℝ²"
+            ]
+        },
+        {
+            "text" : "Soit la fonction *f* définie et de classe C∞ sur ℝ² par *f(x,y) = x² - xy + y² + 2x - y + 1*. On peut affirmer que :",
+            "answers" : [
+                "(-1,0) est l'unique point critique de f*", 
+                "(-1,0) n'est pas un point critique de f", 
+                "f admet en (-1,0) un minimum local", 
+                "0 est minimum global de f*",
+                "f est concave sur ℝ²"
+            ]
+        },
+        {
+            "text" : "On considère la fonction *f* définie et de classe C∞ sur ℝ² par *f(x,y) = x⁴ + y⁴ - 4xy + 2*. On peut affirmer que :",
+            "answers" : [
+                "(0,0), (-1,-1) et (1,1) sont des points critiques de f*", 
+                "f admet en (0,0) un minimum local", 
+                "pour tout (x,y) ∈ ℝ², f(x,y) = (x² - 1) + (y² - 1) + 2(x - y)²*", 
+                "0 est minimum global de f",
+                "0 est minimum local de f*"
+            ]
+        },
+        {
+            "text" : "On considère la fonction *f* définie et de classe C∞ sur ℝ³ par *f(x,y,z) = x² + y² + z² + xy - xz*. On note *Hf* la matrice hessienne de *f*. On peut affirmer que :",
+            "answers" : [
+                "(0,0,0) est l'unique point critique de f*", 
+                "Les trois valeurs propres de Hf(a,b,c) sont strictement positives pour tout (a,b,c) ∈ ℝ³*", 
+                "Les trois mineurs diagonaux principaux de Hf(a,b,c) sont strictement positifs pour tout (a,b,c) ∈ ℝ³*", 
+                "f présente en (0,0,0) un maximum local",
+                "f présente en (0,0,0) un minimum global*"
+            ]
+        },
+        {
+            "text" : "Soit *f: ℝ⁺ x ℝ⁺ → ℝ* définie par *f(x,y) = x² + y² + xy*. On peut affirmer que l'équation du plan tangent à la surface représentative de *f* au point *(1;1;3)* est",
+            "answers" : [
+                "z = 3x + 3y + 3", 
+                "z = 3x + 3y - 3*", 
+                "z = 3 + 3(x - 1) + 3(y + 1)", 
+                "z = 3 + 3(x - 1) + 3(y - 1)*",
+                "z = 3"
+            ]
+        },
+        {
+            "text" : "Soit *f: ℝ⁺ x ℝ⁺ → ℝ* définie par *f(x,y) = x² + y² + xy*. On peut affirmer que :",
+            "answers" : [
+                "f(1,01;0,98) ≈ 3", 
+                "f(1,01;0,98) ≈ 2,97*", 
+                "f(1,02;0,99) ≈ 3,03*", 
+                "f(0,99;1,01) ≈ 2,99",
+                "f(0,99;1,01) ≈ 3*"
+            ]
+        },
+        {
+            "text" : "La fonction de production *P* d'un entrepreneur est donnée par *P(K,L) = √K + 2√L*, où *K* représente le capital utilise *(K > 0)* et *L* le travail *(L > 0)*. On peut affirmer que :",
+            "answers" : [
+                "P(25,100) = 25*", 
+                "P(100,25) = 25", 
+                "P(1,1) = 3*", 
+                "P(49,81) = 25*",
+                "P(81,49) = 25"
+            ]
+        },
+        {
+            "text" : "Soir la fonction *Q* définie par *Q(K,L) = (K - 8)¹'⁶L¹'⁶* pour *K > 8* et *L > 0*. Si on augmente le niveau de travail de *L* de *2* à *3*, on peut affirmer que si on veut maintenir le niveau de *Q* obtenu pour *K = 10* et *L = 2* il faut",
+            "answers" : [
+                "faire passer K de 10 à 11", 
+                "faire passer K de 10 à 12", 
+                "faire passer K de 10 à 13", 
+                "faire passer K de 10 à 9*",
+                "faire passer K de 10 à 8"
+            ]
+        },
+        {
+            "text" : "Soit *A* ∈ ℳ₃(ℝ) diagonalisable et *P* la matrice de passage de la base canonique de ℝ³ à une base de vecteurs propres de *A*. Soit *D* la matrice diagonale composée des valeurs propres de *A*. On peut affirmer que :",
+            "answers" : [
+                "P⁻¹ x A x P = D*", 
+                "P x A x P⁻¹ = D", 
+                "A est semblable à D*", 
+                "A et D ont la même trace*",
+                "A et D n'ont pas les mêmes déterminants"
+            ]
+        },
+        {
+            "text" : "On peut affirmer que toute matrice",
+            "answers" : [
+                "inversible est diagonalisable", 
+                "diagonalisable est inversible", 
+                "hessienne à coefficients réels d'une fonction de classe C² est diagonalisable*", 
+                "carrée est la matrice d'un endomorphisme*",
+                "hessienne est triangulaire"
+            ]
+        }
+    ]
+},
+"question" : {
+    "text" : "",
+    "answers" : [
+        "", 
+        "", 
+        "*", 
+        ""
+    ]
+}
+}
